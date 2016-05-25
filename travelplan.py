@@ -13,7 +13,7 @@
 
 # 1) importamos la libreria itertools
 #Itertools es un modulo de la libreria estandar de Python que incorpora funciones que devuelven objetos iterables, 
-#es decir, estructuras de #datos basadas en elementos que pueden recorrerse secuencialmente y que pueden utilizarse
+#es decir, estructuras de datos basadas en elementos que pueden recorrerse secuencialmente y que pueden utilizarse
 #en procesos repetitivos (bucles)
 
 #para nuestro algoritmos usaremos itertools.combinations
