@@ -36,7 +36,7 @@ w = [
     ]
 
 #Funcion dinamica del problema del agente viajero
-
+# Nota: el sujeto siempre partira de la Ciudad 1 que es la ciudad donde se encuentra actualmente
 def travelplan(w):
 	global time_tot
 	n = len(w) #Variable del tamano de la matriz que representa las ciudades
